@@ -51,7 +51,6 @@ To develop a computer vision application that automatically annotates a driving 
 | Average Fixation Duration (s)   | 0.65  |
 | Objects with >5 fixation        | 50    |
 | Objects with <1s fixation       | 12885 |
-| Detection Success Rate (%)      | 100   |
 | Tracking Consistency (%)        | 32.91 |
 | Gaze-Detection Alignment (%)    | 0.32  |
 
