@@ -40,3 +40,6 @@ To develop a computer vision application that automatically annotates a driving 
 **Output**: Instance segmentation masks + persistent object tracking IDs +  total fixation duration for each object
 
 **Key Insight**: Instance masks + persistent tracking enables accurate per-object fixation accumulation across frames
+
+
+Output files Link: https://drive.google.com/drive/folders/1CnzHzGxVwvjFoHXfnXvuRK3UyojRr6qu?usp=sharing
