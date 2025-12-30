@@ -15,11 +15,15 @@
 ## Core Solution
 ### Minimum Requirements
 
-Model: YOLOv8 Nano (yolov8n.pt)/n
-Detection: Cars only (COCO class 2)
-Video: First 60 seconds of video_etg.avi
-Output: Bounding boxes + fixation points
-Key Insight: Simple velocity-based fixation detection filters meaningful gaze from rapid scanning
+**Model**: YOLOv8 Nano (yolov8n.pt)
+
+**Detection**: Cars only (COCO class 2)
+
+**Video**: First 60 seconds of video_etg.avi
+
+**Output**: Bounding boxes + fixation points
+
+**Key Insight**: Simple velocity-based fixation detection filters meaningful gaze from rapid scanning
 
 ### Advanced Requirements
 
