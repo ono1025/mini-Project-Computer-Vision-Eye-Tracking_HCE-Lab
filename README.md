@@ -42,4 +42,19 @@ To develop a computer vision application that automatically annotates a driving 
 **Key Insight**: Instance masks + persistent tracking enables accurate per-object fixation accumulation across frames
 
 
+## Evaluation Metrics
+
+| Metric                          | Value |
+|---------------------------------|-------|
+| Total Objects Tracked           | 15712 |
+| Total Fixation Events           | 15712 |
+| Average Fixation Duration (s)   | 0.65  |
+| Objects with >5 fixation        | 50    |
+| Objects with <1s fixation       | 12885 |
+| Detection Success Rate (%)      | 100   |
+| Tracking Consistency (%)        | 32.91 |
+| Gaze-Detection Alignment (%)    | 0.32  |
+
+
+
 Output files Link: https://drive.google.com/drive/folders/1CnzHzGxVwvjFoHXfnXvuRK3UyojRr6qu?usp=sharing
