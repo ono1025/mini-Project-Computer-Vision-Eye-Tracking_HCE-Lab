@@ -25,9 +25,9 @@ To develop a computer vision application that automatically annotates a driving 
 
 **Video**: First 60 seconds of video_etg.avi
 
-**Output**: Bounding boxes + fixation points
+**Output**: Bounding boxes + driver’s gaze
 
-**Key Insight**: Simple velocity-based fixation detection filters meaningful gaze from rapid scanning
+
 
 ### Advanced Requirements
 
@@ -37,6 +37,6 @@ To develop a computer vision application that automatically annotates a driving 
 
 **Video**: Full duration of video_garmin.avi
 
-**Output**: Instance segmentation masks + persistent object tracking IDs
+**Output**: Instance segmentation masks + persistent object tracking IDs +  total fixation duration for each object
 
 **Key Insight**: Instance masks + persistent tracking enables accurate per-object fixation accumulation across frames
