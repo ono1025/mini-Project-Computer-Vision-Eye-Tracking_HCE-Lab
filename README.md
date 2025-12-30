@@ -1,7 +1,11 @@
 # mini-Project-Computer-Vision-Eye-Tracking_HCE-Lab
-## Purpose: To demonstrate the ability to apply computer vision techniques (e.g., object detection, recognition, and tracking) to a human-centered engineering problem. 
+## Purpose: 
 
-## Objective: To develop a computer vision application that automatically annotates a driving video footage with the human driver’s eye-gaze behavior. Your application will (1) detect objects of interest (e.g., cars, pedestrians, traffic signs, and signals) and (2) calculate the duration the human driver looked at each object. To demonstrate the ability to apply computer vision techniques (e.g., object detection,  recognition, and tracking) to a human-centered engineering problem. 
+To demonstrate the ability to apply computer vision techniques (e.g., object detection, recognition, and tracking) to a human-centered engineering problem. 
+
+## Objective: 
+
+To develop a computer vision application that automatically annotates a driving video footage with the human driver’s eye-gaze behavior. Your application will (1) detect objects of interest (e.g., cars, pedestrians, traffic signs, and signals) and (2) calculate the duration the human driver looked at each object. To demonstrate the ability to apply computer vision techniques (e.g., object detection,  recognition, and tracking) to a human-centered engineering problem. 
 
 ![image alt](https://github.com/ono1025/mini-Project-Computer-Vision-Eye-Tracking_HCE-Lab/blob/main/Object_Detection_Eye_tracking.png)
 
@@ -27,8 +31,12 @@
 
 ### Advanced Requirements
 
-Model: YOLO11 Small with Instance Segmentation (yolo11s-seg.pt)
-Detection: 8+ classes (cars, pedestrians, traffic lights, stop signs, etc.)
-Video: Full duration of video_garmin.avi
-Output: Instance segmentation masks + persistent object tracking IDs
-Key Insight: Instance masks + persistent tracking enables accurate per-object fixation accumulation across frames
+**Model**: YOLO11 Small with Instance Segmentation (yolo11s-seg.pt)
+
+**Detection**: 8+ classes (cars, pedestrians, traffic lights, stop signs, etc.)
+
+**Video**: Full duration of video_garmin.avi
+
+**Output**: Instance segmentation masks + persistent object tracking IDs
+
+**Key Insight**: Instance masks + persistent tracking enables accurate per-object fixation accumulation across frames
