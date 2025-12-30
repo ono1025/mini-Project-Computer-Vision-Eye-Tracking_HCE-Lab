@@ -42,7 +42,7 @@ To develop a computer vision application that automatically annotates a driving 
 **Key Insight**: Instance masks + persistent tracking enables accurate per-object fixation accumulation across frames
 
 
-## Evaluation Metrics
+## Performance Metrics
 
 | Metric                          | Value |
 |---------------------------------|-------|
@@ -54,6 +54,8 @@ To develop a computer vision application that automatically annotates a driving 
 | Detection Success Rate (%)      | 100   |
 | Tracking Consistency (%)        | 32.91 |
 | Gaze-Detection Alignment (%)    | 0.32  |
+
+
 
 
 
