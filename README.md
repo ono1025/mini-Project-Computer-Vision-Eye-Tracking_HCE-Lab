@@ -57,5 +57,6 @@ To develop a computer vision application that automatically annotates a driving 
 
 
 ![image alt](https://github.com/ono1025/mini-Project-Computer-Vision-Eye-Tracking_HCE-Lab/blob/main/Object-wise%20fixation%20frequency%20and%20duration..png)
+Figure: Fixation analysis showing the most viewed objects (left) and total gaze time by object class (right).
 
 Output files Link: https://drive.google.com/drive/folders/1CnzHzGxVwvjFoHXfnXvuRK3UyojRr6qu?usp=sharing
